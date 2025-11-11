@@ -1,2 +1,2 @@
-def add(i,j) : 
+def adder(i,j) : 
     return i+j
